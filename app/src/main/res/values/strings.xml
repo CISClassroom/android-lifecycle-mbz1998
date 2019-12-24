@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lab2_lifecycle</string>
+    <string name="action_settings">Settings</string>
+</resources>
