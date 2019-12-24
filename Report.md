@@ -3,7 +3,9 @@
 <นางสาวอาทิตยา ฉิมมาแก้ว> <603410321-2>
 
 ## คำสั่งการแสดงผลผ่าน Logcat
+```kotlin
 import android.util.Log
+```
 
 Debug log --> แสดงข้อมูลข้อความสำหรับ Debug
 ```kotlin
